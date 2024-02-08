@@ -130,4 +130,4 @@ some_method
 Продолжим выполнение программы до конца:
 [6] pry(main)> continue
 	
-end
+=end
